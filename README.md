@@ -6,6 +6,16 @@ Briefly speaking, the paper uses evolution algorithm along with decision tree cl
 
 The implemented algorithm is then tested on Solomon dataset and the results are reported.
 
+## Simulation Results
+
+### Total Route Distance
+The following figure illustrates the toatl distance values of the routes found by IMOLEM method, applied on various problem instances of the Solomon vehicle routing dataset.
+
+![IMOLEM_Distance_2550100](https://github.com/NM001007/Vehicle_Routing_Problem_Evolutionay_Tree/assets/131379171/7aed2f58-a3db-4b4f-b1ed-a91b4940b20d)
+
+### Number of Sub-Routes
+The figure below shows various number of sub-routes for the routes found by IMOLEM method, applied on various problem instances of the Solomon vehicle routing dataset.
+![IMOLEM_Number of subroutes_2550100](https://github.com/NM001007/Vehicle_Routing_Problem_Evolutionay_Tree/assets/131379171/95ee8eea-2aad-4186-8f07-8cf39b5a0bbe)
 
 
 ## Reference
